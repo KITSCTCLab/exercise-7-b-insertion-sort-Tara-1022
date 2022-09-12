@@ -1,7 +1,7 @@
 from typing import List
 
 def insertionSort(array) -> List[int]:
-   """
+  """
   Function implementing insertion sort algorithm to return the passed array sorted in the ascending order
   """
   size = len(array)
